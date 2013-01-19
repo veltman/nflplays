@@ -131,6 +131,7 @@ Below are the MySQL conditionals I used to assign PLAY_TYPE values:
 
 Contact
 -----
-Noah Veltman
-noah@noahveltman.com
-http://noahveltman.com/
+
+Noah Veltman  
+noah@noahveltman.com  
+http://noahveltman.com/  
