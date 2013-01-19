@@ -76,6 +76,7 @@ In an effort to extract at least some consistent data from these plays, I explor
 	CHALLENGE_FAIL
 
 A play can have any number of `PLAY_TYPE` identifiers in the field, separated by pipe symbols (|), for example:
+
 	(10:07) C.Benson right end to DEN 39 for 6 yards (M.Haggan).	RUN|RUN_RIGHT
 	(1:21) T.Brady pass intended for C.Cleeland INTERCEPTED by B.Robinson at CHI 35. B.Robinson to CHI 37 for 2 yards (M.Compton). FUMBLES (M.Compton) recovered by CHI-R.Colvin at CHI 37. Play Challenged by Review Assistant and REVERSED. T.Brady pass incomplete to C.Cleeland (B.Robinson).	FUMBLE|INTERCEPTION|PASS_INCOMPLETE|CHALLENGE|CHALLENGE_SUCCESSFUL 	
 
