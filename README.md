@@ -3,7 +3,9 @@ NFL Play-by-Play Data (2002-2012)
 
 This is a refinement of the NFL play-by-play data released by Brian Burke of Advanced NFL Stats: http://www.advancednflstats.com/2010/04/play-by-play-data.html
 
-nflstats.csv is a tab-delimited CSV with all plays from 2002-2012 (including the postseason for 2002-2011).  The file is about 77MB in size and contains 471,583 plays.
+nflstats.csv is a tab-delimited CSV with all plays from 2002-2012 (including the postseason for 2002-2011).  The file is about 73MB in size and contains 471,583 plays.
+
+Alternate download link: https://dl.dropbox.com/u/67318307/nflplays.csv
 
 The column names are in the first row of the document and are mostly self-explanatory:
 
